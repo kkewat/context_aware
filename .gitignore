@@ -1,0 +1,4 @@
+*.gdoc
+drive/
+__pycache__/
+.ipynb_checkpoints/
